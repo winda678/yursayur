@@ -1,0 +1,27 @@
+.btn{
+    padding: 3px 20px 3px 20px;
+    border-radius: 25px;
+    border-color: #000000;
+    /* margin-left: 5px; */
+}
+
+.btn1{
+    padding: 3px 20px 3px 20px;
+    border-radius: 25px;
+    background-color: #025955;
+    color: white;
+    margin-left: 10px;
+    margin-right: 25px;
+}
+
+.box{
+    height: 300px;
+}
+
+.font{
+    margin-top: 50px;
+}
+
+.box1{
+    height: 250px;
+}
